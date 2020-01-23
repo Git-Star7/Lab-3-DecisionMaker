@@ -22,7 +22,7 @@ namespace Lab_3_DecisionMaker_Project
                 
                 int userInput = int.Parse(Console.ReadLine());
 
-                if (userInput >= 1 && userInput <= 100)     //checks valid answer and removed redundant if else statments
+                if (userInput >= 1 && userInput <= 100)     //checks valid answer and removed redundant if else statements
                 {
                     if (userInput % 2 == 1)
                     {
