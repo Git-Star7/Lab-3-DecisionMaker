@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\bin\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.exe
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\bin\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.deps.json
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\bin\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.runtimeconfig.json
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\bin\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\bin\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.dll
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\bin\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.pdb
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\obj\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\obj\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\obj\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\obj\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.dll
+C:\Users\Michael\source\repos\Grand Circus\Lab 3 DecisionMaker\Lab 3 DecisionMaker Project\obj\Debug\netcoreapp3.0\Lab 3 DecisionMaker Project.pdb
